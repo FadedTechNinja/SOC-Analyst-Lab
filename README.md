@@ -42,5 +42,5 @@ Do not attempt to replicate outside of an isolated test environment.
 - End-to-end visibility: from implant execution → telemetry → detection → response.
 
 ## Walkthrough
-[![PDF](https://img.shields.io/badge/-View%20Full%20Writeup-red?style=for-the-badge&logo=adobeacrobatreader)](writeup/SYWTBAS_Lab_Writeup.pdf)
+[![PDF](https://img.shields.io/badge/-View%20SOC%20Analyst%20Lab%20Writeup-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/22260371/SOC.Analyst.Lab.Write-up.pdf)
 
